@@ -1,0 +1,8 @@
+
+plugin.tx_drwiki_pi1 {
+	# cat=plugin.tx_drwiki_pi1/file/a; type=file[IMAGE_EXT]; label= Icon-Edit: This is the icon for subscribing a keyword
+	iconSubscribe = EXT:intdrwikimods/res/ui/wiki_subscribe.png
+	
+	# cat=plugin.tx_drwiki_pi1/file/a; type=file[IMAGE_EXT]; label= Icon-Edit: This is the icon for unsubscribing a keyword
+	iconUnsubscribe = EXT:intdrwikimods/res/ui/wiki_unsubscribe.png    
+}

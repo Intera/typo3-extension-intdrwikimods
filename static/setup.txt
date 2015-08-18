@@ -1,0 +1,12 @@
+
+plugin.tx_drwiki_pi1 {
+	iconSubscribe = IMAGE
+	iconSubscribe.file = {$plugin.tx_drwiki_pi1.iconSubscribe}
+	iconSubscribe.altText = Subscribe  
+
+	iconUnsubscribe = IMAGE
+	iconUnsubscribe.file = {$plugin.tx_drwiki_pi1.iconUnsubscribe}
+	iconUnsubscribe.altText = Unsubscribe
+	
+	toolbarIconPath = EXT:dr_wiki/res/buttons/
+}

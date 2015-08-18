@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+    <meta type="array">
+        <description>DR Wiki subscription</description>
+        <type>database</type>
+        <csh_table></csh_table>
+        <labelContext type="array">
+        </labelContext>
+    </meta>
+    <data type="array">
+        <languageKey index="default" type="array">
+            <label index="tx_intdrwikimods_subscriptions">DR Wiki subscription</label>
+        </languageKey>
+		<languageKey index="de" type="array">
+            <label index="tx_intdrwikimods_subscriptions">DR Wiki Abonnement</label>
+        </languageKey>
+	</data>
+</T3locallang>
